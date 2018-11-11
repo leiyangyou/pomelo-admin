@@ -8,7 +8,7 @@
         "pomelo-scheduler": "git+https://github.com/leiyangyou/pomelo-scheduler.git"
     },
     "peerDependencies": {
-        "pomelo-logger": "0.1.7"
+        "pomelo-logger": "git+https://github.com/leiyangyou/pomelo-logger.git"
     },
     "devDependencies": {
         "should": ">=0.0.1",
